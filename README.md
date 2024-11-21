@@ -1,6 +1,6 @@
 # Django için genel bilgiler.
 
-##Django Projesi için Apache Konfigürasyonu
+## Django Projesi için Apache Konfigürasyonu
 
 Apache, gelen istekleri yönetmek için konfigürasyon dosyalarını kullanır. Her bir site veya hizmet için `<VirtualHost>` etiketleri içerisinde kurallar tanımlanır. Bu kurallar, belirli bir domain (alan adı) ile gelen isteklerin nasıl yönlendirileceğini, hangi klasöre ulaşacağını ve hangi protokollerle çalışacağını belirler. 
 
